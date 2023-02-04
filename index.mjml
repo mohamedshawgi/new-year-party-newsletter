@@ -1,0 +1,167 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Abril Fatface" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap"></mj-font>
+    <mj-attributes>
+      <mj-all padding="0"></mj-all>
+      <mj-text align="center" color="#555" />
+      <mj-section background-color="#fff"/>
+      <mj-class name="btn" text-transform="uppercase" background-color="#EFB810" color="#161635" font-size="22px" letter-spacing="1px"/>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#eee">
+    <!--section #1 Hero -->
+    <mj-section background-url="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7701/Fondo_Cabecera_larga.jpg" background-color="#161635" padding="30px 20px">
+      <mj-column>
+        <mj-image src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7701/YourLogo.png" width="180px" alt="logo"></mj-image>
+        <mj-divider border-color="#EFB810" border-width="1px"></mj-divider>
+        <mj-image src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7701/Copa_Champagne_02.png" alt="drink"></mj-image>
+        <mj-text padding-top="30px">
+          <h2 style="font-family:'Abril Fatface';color:#fff;font-size:52px">NEW YEAR PARTY</h1>
+        </mj-text>
+        <mj-divider border-color="#EFB810" border-width="5px" width="20%" padding="25px 10px 5px 10px"></mj-divider>
+        <mj-text>
+          <h1 style="font-family:'Abril Fatface';color:#efb810;font-size:72px;letter-spacing:2px;">2023</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Section #2 -->
+    <mj-section background-color="#161635">
+      <mj-column background-color="#fff" width="90%" border-top="5px solid #efb810">
+        <mj-text padding="20px 0 10px 0">
+          <h3 style="color:#161635;font-size:24px;">LOREM IPSUM DOLOR SIT AMET, CONSECTETUR</h3>
+        </mj-text>
+        <mj-text font-size="16px" color="#5e5e6f" padding="0 15px 10px 15px" font-family="Roboto">Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas faucibus mollis interdum. Nullam quis risus eget urna.</mj-text>
+        <mj-button  padding="10px 0" mj-class="btn"><a href="example.com" style="text-decoration:none;color:#161635; font-family:'Global font';">yes, i am going</a></mj-button>      </mj-column>
+    </mj-section>
+    <!-- Section #3 -->
+    <mj-section>
+      <mj-column>
+        <mj-divider border-width="40px" border-color="#161635" padding="0"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- Section #4 -->
+    <mj-section background-color ="#161635">
+      <mj-column width="45%">
+        <mj-text>
+          <mj-raw>
+            <img src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7701/another_events_01.jpg" alt="some image" width="100%" />
+          </mj-raw>
+        </mj-text>
+      </mj-column>
+      <mj-column width="45%" background-color="#eeb810">
+        <mj-divider border-color="transparent" border-width="40px" padding="0"></mj-divider>
+        <mj-text font-family="Abril Fatface" font-size="30px" color="#161635" letter-spacing="1px"><b>YOUR BEST</b></h3>
+        </mj-text>
+        <mj-text color="#161635" font-size="22px">NEW YEAR PARTYS</mj-text>
+        <mj-text font-family="Abril Fatface" font-size="30px" color="#161635" letter-spacing="1px"><b>EXPERIENCE</b></mj-text>
+        <mj-divider border-color="#fff" border-width="1px" width="50%" padding="20px"></mj-divider>
+        <mj-text font-size="18px" color="#161635" padding="0 15px">Lorem Ipsum Street 5, Barcelona</mj-text>
+        <mj-divider border-color="#fff" border-width="1px" width="50%" padding="20px"></mj-divider>
+        <mj-text font-size="18px" color="#161635" padding="0 15px">31-12-2022 at 21:00</mj-text>
+        <mj-divider border-width="12px" border-color="#eeb810"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#161635" >
+      <mj-column width="90%">
+
+        <mj-text>
+          <mj-raw>
+            <img src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7701/another_events_04.jpg" alt="another image" width="100%"></img>
+          </mj-raw>
+          
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#161635" >
+      <mj-column width="90%" background-color="#fff" padding="25px 0">
+        <mj-button mj-class="btn" padding="10px 0"><a href="example.com" style="text-decoration:none;color:#161635; font-family:'Global font';">yes, i am going</a></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#161635">
+      <mj-column>
+        <mj-divider border-width="40px" border-color="transparent" padding="0 30px"></mj-divider>
+        <mj-divider border-width="1px" border-color="#efb810" padding="20px 10px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#161635">
+      <mj-column>
+        <mj-text>
+          <h3 style="font-size:30px;font-family:'Abril Fatface';color:#fff;letter-spacing:1px;">THE BEST EXPERIENCES FOR YOU</h3>
+        </mj-text>
+        <mj-divider border-width="20px" border-color="transparent" padding="0 10px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="10px 20px" background-color="#161635">
+      <mj-column>
+        <mj-text padding-bottom="15px"><img src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7701/events_karaokes.png" alt="none" width="128px" padding="5px 5px 25px 5px"></img>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text padding-bottom="15px"><img src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7701/events_years.png" alt="none" width="128px" padding="5px 5px 25px 5px"></img>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text padding-bottom="15px"><img src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7701/events_work.png" alt="none" width="128px" padding="5px 5px 25px 5px"></img>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#161635">
+      <mj-column background-color="#161635" width="90%" padding="25px 0 10px 0">
+        <mj-button mj-class="btn" padding="10px 0" ><a href="example.com" style="text-decoration:none;color:#161635; font-family:'Global font';">more info</a></mj-button>
+        <mj-divider border-color="#efb810" width="100%" padding="20px 10px" border-width="1px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#161635">
+      <mj-column padding="20px 20px 25px 20px" border-top="5px solid #EFB810" width="90%" background-color="#fff">
+        <mj-text color="#161635" font-size="24px" padding="20px 0 10px 0">THINK ABOUT US </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#161635">
+      <mj-column width="45%" background-color="#d9d9e3" padding="15px 20px">
+        <mj-text font-size="18px" padding="10px" color="#161635"><i>"Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla."</i>
+        </mj-text>
+        <mj-divider width="50%" border-width="1px" border-color="#fff" padding="10px"></mj-divider>
+        <mj-text font-size="22px" color="#161635" padding="5px 10px 10px 10px">Morgan McDonalds</mj-text>
+      </mj-column>
+      <mj-column width="45%" background-color="#c5c5cd" padding="15px 0">
+        <mj-text font-size="18px" padding="10px" color="#161635"><i>"Cenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas faucibus mollis interdum." </mj-text>
+        <mj-divider width="50%" border-width="1px" border-color="#fff" padding="10px"></mj-divider>
+        <mj-text font-size="22px" color="#161635" padding="5px 10px 10px 10px">Lourdes Garcia</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#161635">
+      <mj-column width="45%" background-color="#c5c5cd" padding="15px 20px">
+        <mj-text font-size="18px" padding="10px" color="#161635"><i>"Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Praesent commodo cursus magna."</i>
+        </mj-text>
+        <mj-divider width="50%" border-width="1px" border-color="#fff" padding="10px"></mj-divider>
+        <mj-text font-size="22px" color="#161635" padding="5px 10px 10px 10px">Alex Harrisson</mj-text>
+      </mj-column>
+      <mj-column width="45%" background-color="#D9D9E3" padding="15px 0 15px 0">
+        <mj-text font-size="18px" padding="10px" color="#161635"><i>"CNulla vitae elit libero, a pharetra augue. Curabitur blandit tempus porttitor.ras mattis consectetur purus sit amet." </mj-text>
+        <mj-divider width="50%" border-width="1px" border-color="#fff" padding="10px"></mj-divider>
+        <mj-text font-size="22px" color="#161635" padding="5px 10px 28px 10px">Marta Cuggan</mj-text>
+      </mj-column>
+    </mj-section>
+          <mj-section background-color="#161635">
+      <mj-column width="90%" background-color="#fff" padding="25px 20px">
+        <mj-button mj-class="btn" padding="5px 30px"><a href="example.com" style="text-decoration:none;color:#161635; font-family:'Global font';">yes i'm going</a></mj-button>
+      
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7701/Fondo_footer.jpg" background-color="#161635" background-size="cover">
+      <mj-column>
+        <mj-divider border-width="10px" padding="30px" border-color="transparent"></mj-divider>
+        <mj-social padding="10px 20px" icon-padding="5px">
+          <mj-social-element name="facebook-noshare" href="facebook.com" icon-size="35px" padding="0 10px" text-padding="15px" border-radius="22.5px" src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/facebook@2x.png" background-color="#161635"></mj-social-element>
+          <mj-social-element name="twitter-noshare" href="twitter.com" icon-size="35px" padding="0 10px" border-radius="22.5px" src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/twitter@2x.png" background-color="#161635"></mj-social-element>
+          <mj-social-element name="linkedin-noshare" href="linkedin.com" icon-size="35px" padding="0 10px" border-radius="22.5px" src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/linkedin@2x.png" background-color="#161635"></mj-social-element>
+          <mj-social-element name="instagram-noshare" href="instagram.com" icon-size="35px" padding="0 10px" border-radius="22.5px" src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-circle-white/instagram@2x.png" background-color="#161635"></mj-social-element>
+        </mj-social>
+        <mj-text color="#fff" font-size="14px" padding="10px 20px">Sed posuere consectetur est at lobortis. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</mj-text>
+        <mj-text color="#efb810" padding="0 20px 10px 20px"><a>VIEW ONLINE</a> | <a style="font-style:underline;">UNSUBSCRIBE </a></mj-text>
+        <mj-text><img src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7701/YourLogo.png" alt="none" width="140px"></img></mj-text>
+        <mj-divider border-color="transparent" border-width="10px" padding="5px"></mj-divider>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

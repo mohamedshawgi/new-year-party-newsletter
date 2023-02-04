@@ -1,0 +1,23 @@
+new year party newsletter
+
+event 
+new year
+seasonal 
+newsletter
+mjml html css
+responsive html email
+
+css inlined by putsmail
+test email sent by putsmail
+
+Design by Daniel Llamas Soto
+gmail/chrome/windows:
+- all links are working
+- fonts working
+
+gmail/android:
+- all links are working
+- fonts changed
+
+Yahoo / android:
+!! links do not work
